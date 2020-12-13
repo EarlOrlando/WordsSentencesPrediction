@@ -1,0 +1,2 @@
+# WordsSentencesPrediction
+Real-time writing prediction and correction model based on the trie data structure, the Boyer-Moore algorithm for string matching, and the Levenshtein distance (using dynamic programming) for string similarity.  This was designed and implemented as the final project of the "Design and Analysis of Algorithms" and "Programming for Data Analysis" classes which are part of the Master of Computer Systems in the Western Institute of Technology and Higher Education (ITESO University).
